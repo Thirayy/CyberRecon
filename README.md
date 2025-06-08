@@ -1,0 +1,1 @@
+This is a domain intelligence tool that gathers WHOIS information, DNS records, performs subdomain enumeration, and analyzes basic web vulnerability indicators (SQL Injection/XSS) for a target domain.
